@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋, I'm Brian Briscoe
+
+# I am an entrepreneur and software engineer
 
 <!--
 **Briscoooe/briscoooe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Brian Briscoe
 
-#### I am an entrepreneur and software engineer
+#### I a software engineer from Ireland 🇮🇪
 
 Currently looking for work as a software engineer, preferably backend. My specialties are React, Node, Python/Django, Postgres/MySQL and AWS web-tier services.
 

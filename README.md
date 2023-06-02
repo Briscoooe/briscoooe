@@ -2,9 +2,11 @@
 
 #### I a software engineer from Ireland 🇮🇪
 
-Currently looking for work as a software engineer, preferably backend. My specialties are React, Node, Python/Django, Postgres/MySQL and AWS web-tier services.
+I have extensive experience building and managing web-based startups and their related infrastructure. My specialties are Node, Python/Django, React, Postgres/MySQL and AWS web-tier services.
 
-You can contact me via my [LinkedIn](https://www.linkedin.com/)
+For some magic, talk to my [resume](https://brianbriscoe.dev/resume).
+
+Open for work, recruiters or other interested parties can reach me on [LinkedIn](https://www.linkedin.com/).
 
 <!--
 **Briscoooe/briscoooe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
